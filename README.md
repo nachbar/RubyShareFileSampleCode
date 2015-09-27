@@ -1,7 +1,7 @@
 # RubyShareFileSampleCode
 This is based on the sample Ruby code posted on api.sharefile.com from https://api.sharefile.com/rest/samples/ruby.aspx
 
-This is modified to demonstrate Chunked uploads, and is based on the report at https://community.sharefilesupport.com/citrixsharefile/topics/-missing-parameters-response-from-threaded-chunkuri-raw-file-upload-which-parameters-am-i-missing?topic-reply-list%5Bsettings%5D%5Bfilter_by%5D=all&topic-reply-list%5Bsettings%5D%5Bpage%5D=1#reply_16161574
+This is modified to demonstrate Chunked uploads, and is based on the report at https://community.sharefilesupport.com/citrixsharefile/topics/-missing-parameters-response-from-threaded-chunkuri-raw-file-upload-which-parameters-am-i-missing
 
 Thanks to Michael Berrier of ShareFile for his help getting this to work.  However, any errors are my own.
 
