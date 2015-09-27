@@ -10,11 +10,12 @@ To use this (I use Terminal on a Mac with Ruby 2.2.0):
 First, modify the code with your own credentials at the end of the file.
 
 Then, start the Terminal, and then, start irb (the Interactive Ruby Shell) and type:
-
+```
 require './sharefilesamplecode'
-
+```
 (you must include the './', or whatever applies to your operating system, or else irb will look for a gem named sharefilesamplecode)  If everything is OK, you will download the file and folder names in your root, including the ID's, which you can use to construct the upload calls.
 
 Then, you should be able to upload files by calling the routines.  For example:
-
+```
 upload_file_one_chunk $token, 'foh5f824-79ad-4665-8351-3625853cea32', '/Users/username/work/YourPDF.pdf'
+```
